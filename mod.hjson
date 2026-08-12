@@ -1,0 +1,7 @@
+name: "spectator-schematics"
+displayName: "Specator Schematics"
+author: BoneheadBreaker
+description: Make schematics in spectator!
+version: 1.0
+minGameVersion: 159
+hidden: true
